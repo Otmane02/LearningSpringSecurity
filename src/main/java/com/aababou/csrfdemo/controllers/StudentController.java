@@ -1,9 +1,10 @@
-package com.aababou.csrfdemo;
+package com.aababou.csrfdemo.controllers;
 
 /*
 author otman
     */
 
+import com.aababou.csrfdemo.model.Student;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.security.web.csrf.CsrfToken;
 import org.springframework.web.bind.annotation.GetMapping;

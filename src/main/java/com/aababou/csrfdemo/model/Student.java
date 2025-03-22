@@ -1,4 +1,4 @@
-package com.aababou.csrfdemo.controllers;
+package com.aababou.csrfdemo.model;
 
 public class Student {
         private int id;
